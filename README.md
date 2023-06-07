@@ -5,4 +5,4 @@ este es un nuevo proyecto para el back end de la impresora 3D
 este back end se va a desarrollar en react.js
 
 
-la base de datos a utilizar sera postgresql
+la base de datos sera mongo db
