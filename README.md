@@ -19,3 +19,5 @@ git merge (nombre de la rama)=
 git branch= lista las ramas localmente
 git branch -a= lista las ramas localmente + remote
 
+
+interactuando desde hotfix
