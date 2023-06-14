@@ -18,6 +18,8 @@ git log = lista los commits realizados
 git merge (nombre de la rama)=
 git branch= lista las ramas localmente
 git branch -a= lista las ramas localmente + remote
+git init = inicia git o repo
+
 
 
 interactuando desde hotfix
